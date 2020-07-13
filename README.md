@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/wikyprash/wikyprash/blob/master/fixing.gif)
 
 <!--
 **wikyprash/wikyprash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
