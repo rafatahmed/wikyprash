@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://github.com/wikyprash">
-    <img src="https://github-readme-stats.vercel.app/api?username=wikyprash&count_private=false"/>
-  </a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=wikyprash&show_icons=true&count_private=false)
 
-<p align="center">
-  <a href="https://github.com/wikyprash">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikyprash&hide=Tex&layout=compact" />
-  </a>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wikyprash&hide=Tex&layout=compact)
